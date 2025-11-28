@@ -1,13 +1,11 @@
-
-
 # Hi, I'm Bhoomika Tonk 👋
 
-
+![Coding Animation](https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif)
 
 ---
 
 ## About Me
-- Recent Electronic Communication Graduate  
+- Recent Computer Science Graduate  
 - Java Developer | OOP Enthusiast | Backend Developer  
 - Preparing for SDE Roles at FAANG & top tech companies  
 - Passionate about building clean, scalable, and real-world projects  
@@ -40,9 +38,9 @@
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhoomika-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/tonk-bhoomika/)  
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:bhoomikanamdev4@gmail.com)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=flat)](https://leetcode.com/u/bhoomi_tonk27/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhoomika-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/your-linkedin/)  
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:your.email@example.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=flat)](https://leetcode.com/your-username/)
 
 ---
 
