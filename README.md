@@ -1,6 +1,6 @@
 # Hi, I'm Bhoomika Tonk 👋
 
-![Butterflies](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+![Cute Butterflies](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
 
 
 ---
