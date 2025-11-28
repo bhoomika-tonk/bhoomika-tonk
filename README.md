@@ -1,58 +1,49 @@
-# Hi 👋, I'm Bhoomika Tonk 🦋🦋
 
-🌸 Full Stack Developer | Java & SpringBoot Specialist  
-🦋 Adding a touch of cuteness to my professional profile  
 
----
+# Hi, I'm Bhoomika Tonk 👋
 
-## 🔥 Current Focus
-🚀 Building Employee & Library Management Systems  
-🌱 Mastering Microservices & Cloud Native Apps  
-💡 Exploring REST API Development with Spring Boot  
-🔄 Working on Full Stack Projects  
+
 
 ---
 
-## 🛠️ Tech Stack
-
-💻 **Programming Languages**  
-Java 🦋, SQL 🦋, Python 🦋
-
-🚀 **Frameworks & Libraries**  
-Spring Boot 🦋, Hibernate 🦋, React 🦋
-
-🗄️ **Databases & ORM**  
-MySQL 🦋, PostgreSQL 🦋, MongoDB 🦋
-
-🔧 **IDEs & Tools**  
-VS Code 🦋, IntelliJ 🦋, Git 🦋, GitHub 🦋
+## About Me
+- Recent Electronic Communication Graduate  
+- Java Developer | OOP Enthusiast | Backend Developer  
+- Preparing for SDE Roles at FAANG & top tech companies  
+- Passionate about building clean, scalable, and real-world projects  
 
 ---
 
-## 📊 GitHub Analytics
-
-![Bhoomika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhoomika-tonk&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika-tonk&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhoomika-tonk&theme=radical)
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhoomika-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/your-linkedin/)  
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:your.email@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-brightgreen?style=flat)](https://your-portfolio-link.com)  
+## 🔧 Skills & Technologies
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 💻 Top Projects
 
-[![Employee Management](https://img.shields.io/badge/Employee%20Management-System-Java-blue)](https://github.com/bhoomika-tonk/employee-management) 🦋  
-[![Library Management](https://img.shields.io/badge/Library%20Management-System-Java-green)](https://github.com/bhoomika-tonk/library-management) 🦋  
-[![PracticeJava](https://img.shields.io/badge/PracticeJava-Java-orange)](https://github.com/bhoomika-tonk/PracticeJava) 🦋  
+[![Employee Management](https://img.shields.io/badge/Employee%20Management-System-Java-blue)](https://github.com/bhoomika-tonk/employee-management)  
+[![Library Management](https://img.shields.io/badge/Library%20Management-System-Java-green)](https://github.com/bhoomika-tonk/library-management)  
+[![Library Management SQL](https://img.shields.io/badge/SQL-Queries-orange)](https://github.com/bhoomika-tonk/sql-projects)  
+
+*(Add more projects as you complete them — badges act like cards!)*
 
 ---
 
-## 🦋 Fun Corner
-![Butterflies](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+## 📈 GitHub Stats
+![Bhoomika's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhoomika-tonk&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomika-tonk&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bhoomika-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/tonk-bhoomika/)  
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:bhoomikanamdev4@gmail.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=flat)](https://leetcode.com/u/bhoomi_tonk27/)
+
+---
 
 ⭐ I’m open to learning and collaborating on backend & Java projects!
