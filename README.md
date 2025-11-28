@@ -1,6 +1,7 @@
 # Hi, I'm Bhoomika Tonk 👋
 
-![Coding Animation](https://media.giphy.com/media/26FPy3QZQqGtDcrja/giphy.gif)
+![Butterflies](https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif)
+
 
 ---
 
