@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @bhoomika-tonk
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java
-- 📫 How to reach through Linkedln
-- 😄 Pronouns: she/her
+# Hi, I'm Bhoomika Tonk 👋
 
+### About Me
+- Recent Computer Science Graduate  
+- Java Developer | OOP Enthusiast | Backend Developer  
+- Preparing for SDE Roles at FAANG & top tech companies  
+- Passionate about building clean, scalable code and learning new technologies  
 
-<!---
-bhoomika-tonk/bhoomika-tonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Skills
+- **Languages:** Java, SQL, Python (optional)  
+- **Concepts:** OOP, Data Structures & Algorithms, REST API  
+- **Tools:** Git, GitHub, VS Code, IntelliJ, Maven  
+
+### Projects
+- **Employee Management System (Java OOP)** - [Repo Link](https://github.com/bhoomika-tonk/employee-management)  
+- Add more projects here with links  
+
+### Contact
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
+- Email: your.email@example.com  
+
+---
+
+⭐ I’m open to learning and collaborating on backend & Java projects!
