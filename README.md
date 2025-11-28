@@ -1,7 +1,7 @@
 # Hi, I'm Bhoomika Tonk 👋
 
 ### About Me
-- Recent Computer Science Graduate  
+- Recent Electronic Communication Graduate  
 - Java Developer | OOP Enthusiast | Backend Developer  
 - Preparing for SDE Roles at FAANG & top tech companies  
 - Passionate about building clean, scalable code and learning new technologies  
