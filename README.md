@@ -16,8 +16,8 @@
 - Add more projects here with links  
 
 ### Contact
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-- Email: your.email@example.com  
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tonk-bhoomika/)  
+- Email: bhoomikanamdev4@gmail.com 
 
 ---
 
