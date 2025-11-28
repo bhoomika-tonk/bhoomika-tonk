@@ -7,13 +7,13 @@
 - Passionate about building clean, scalable code and learning new technologies  
 
 ### Skills
-- **Languages:** Java, SQL, Python (optional)  
-- **Concepts:** OOP, Data Structures & Algorithms, REST API  
-- **Tools:** Git, GitHub, VS Code, IntelliJ, Maven  
+- **Languages:** Java, Python , C++ , MERN , JDBC , Spring Boot
+- **Technologies:** HTML, CSS, SQL
+- **Concepts:** OOP, Data Structures & Algorithms, REST API ,Web Development, Database Management System, Operating System 
+- **Tools:** Git, GitHub, VS Code, IntelliJ, Maven , Spring Framework
 
 ### Projects
 - **Employee Management System (Java OOP)** - [Repo Link](https://github.com/bhoomika-tonk/employee-management)  
-- Add more projects here with links  
 
 ### Contact
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tonk-bhoomika/)  
